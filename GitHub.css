@@ -1,0 +1,32 @@
+img {
+    height: 200px
+}
+
+.Container {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(172, 172, 172);
+}
+
+.TopRow {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+.MiddleRow {
+    background-color: salmon;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.BottomRow {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+    margin: 20px;
+}
